@@ -1,14 +1,13 @@
 //
-//  LogoView.swift
+//  BillInputView.swift
 //  ios-combine-mvvm-swift
 //
-//  Created by otavio brito on 22/3/2026.
+//  Created by otavio brito on 23/3/2026.
 //
-
 
 import UIKit
 
-class LogoView: UIView {
+class BillInputView: UIView {
     
     init() {
         super.init(frame: .zero)
@@ -20,16 +19,8 @@ class LogoView: UIView {
     }
     
     private func layout() {
-        backgroundColor = .red
+        backgroundColor = .systemPurple
     }
     
     
 }
-
-
-
-
-
-
-
-
