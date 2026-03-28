@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A1421332F76AFC8002313C0 /* InlineSnapshotTesting in Frameworks */ = {isa = PBXBuildFile; productRef = 3ABE05D92F6825C70045361F /* InlineSnapshotTesting */; };
+		3A1421342F76AFC8002313C0 /* SnapshotTestingCustomDump in Frameworks */ = {isa = PBXBuildFile; productRef = 3ABE05DD2F6825C70045361F /* SnapshotTestingCustomDump */; };
 		3A3C90662F6B2F9E00950EAB /* CombineCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 3A3C90652F6B2F9E00950EAB /* CombineCocoa */; };
 		3A3C90682F6B2FA300950EAB /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3A3C90672F6B2FA300950EAB /* SnapKit */; };
 		3A3C906A2F6B304A00950EAB /* CombineCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 3A3C90692F6B304A00950EAB /* CombineCocoa */; };
@@ -82,6 +84,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A1421342F76AFC8002313C0 /* SnapshotTestingCustomDump in Frameworks */,
+				3A1421332F76AFC8002313C0 /* InlineSnapshotTesting in Frameworks */,
 				3ABE05E12F6827570045361F /* CombineCocoa in Frameworks */,
 				3ABE05DC2F6825C70045361F /* SnapshotTesting in Frameworks */,
 			);
