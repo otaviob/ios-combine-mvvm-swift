@@ -19,7 +19,7 @@ class HeaderView: UIView {
     private let bottomLabel: UILabel = {
         LabelFactory.build(
             text: nil,
-            font: ThemeFont.bold(offSize: 16))
+            font: ThemeFont.regular(offSize: 16))
     }()
     
     private let topSpacerView = UIView()

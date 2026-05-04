@@ -11,7 +11,6 @@ import SnapKit
 
 class LogoView: UIView {
     
-    
     /// properties
     
     private let imageView: UIImageView = {
